@@ -148,11 +148,3 @@ open WA6_<Qiu>_<8353>.xcworkspace
 ```
 
 3. Build & run on simulator or device.
-
----
-
-## 🙌 Teamwork
-
-This project was part of a collaborative assignment.  
-Work was divided across screens, API integration, and UI components.
-```
