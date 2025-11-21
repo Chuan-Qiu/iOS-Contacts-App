@@ -37,8 +37,6 @@ An iOS contacts manager app built with UIKit that consumes a RESTful backend to 
 
 ## 📱 Screens
 
-```
-
 <p float="left">
   <img src="Screenshots/Main_Screen.png" width="250"/>
   <img src="Screenshots/Add_New_Contact_Screen.png" width="250"/>
@@ -48,8 +46,6 @@ An iOS contacts manager app built with UIKit that consumes a RESTful backend to 
   <img src="Screenshots/Edit_Contact_Screen.png" width="250"/>
   <img src="Screenshots/Delete_Contact.png" width="250"/>
 </p>
-
-```
 
 ---
 
