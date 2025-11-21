@@ -37,29 +37,17 @@ An iOS contacts manager app built with UIKit that consumes a RESTful backend to 
 
 ## 📱 Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<p align="left">
+  <img src="Screenshots/Main_Screen.png" width="230" style="margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;" />
+  <img src="Screenshots/Add_New_Contact_Screen.png" width="230" style="margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;" />
+  <img src="Screenshots/Details_Screen.png" width="230" style="margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;" />
+</p>
 
-  <img src="Screenshots/Main_Screen.png" 
-       width="250"
-       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+<p align="left">
+  <img src="Screenshots/Edit_Contact_Screen.png" width="230" style="margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;" />
+  <img src="Screenshots/Delete_Contact.png" width="230" style="margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;" />
+</p>
 
-  <img src="Screenshots/Add_New_Contact_Screen.png" 
-       width="250"
-       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-
-  <img src="Screenshots/Details_Screen.png" 
-       width="250"
-       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-
-  <img src="Screenshots/Edit_Contact_Screen.png" 
-       width="250"
-       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-
-  <img src="Screenshots/Delete_Contact.png" 
-       width="250"
-       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-
-</div>
 
 ---
 
